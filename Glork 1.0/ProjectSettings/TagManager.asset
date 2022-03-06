@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Ground
+  - Trap
+  - TextHead
+  - SecondCamera
+  - RedGem
+  - GreenGem
+  - YellowGem
+  - StandardLaserAttack
+  - PeaEnemy
+  - SilverCoin
+  - GoldCoin
+  - ScreenEdge
+  - CrickEnemy
+  - Box
+  - BrokenBox
+  - ExtraLife
+  - BulletBoundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Midground
+  - FRONT
+  - Effects
+  - Collectables
+  - Boxes
+  - BoxGrounded
+  - UserScreenBoundary
+  - BulletImpact
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1913527201
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 2200226269
+    locked: 0

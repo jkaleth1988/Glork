@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: fafd623a126cc0d42b6adc5deaef06fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9065573238279936944
+    second: Static Flower and Plant sprite sheet 1_0
+  - first:
+      213: -1342984022670552685
+    second: Static Flower and Plant sprite sheet 1_1
+  - first:
+      213: -2100197804009590101
+    second: Static Flower and Plant sprite sheet 1_2
+  - first:
+      213: -6453332114415999432
+    second: Static Flower and Plant sprite sheet 1_3
+  - first:
+      213: 6209405091214131129
+    second: Static Flower and Plant sprite sheet 1_4
+  - first:
+      213: 2836920279407042584
+    second: Static Flower and Plant sprite sheet 1_5
+  - first:
+      213: -5182181200364168435
+    second: Static Flower and Plant sprite sheet 1_6
+  - first:
+      213: 8601967235434406487
+    second: Static Flower and Plant sprite sheet 1_7
+  - first:
+      213: -4053500224837220587
+    second: Static Flower and Plant sprite sheet 1_8
+  - first:
+      213: -3546343940717971589
+    second: Static Flower and Plant sprite sheet 1_9
+  - first:
+      213: 94672654814783705
+    second: Static Flower and Plant sprite sheet 1_10
+  - first:
+      213: 1344019452514251105
+    second: Static Flower and Plant sprite sheet 1_11
+  - first:
+      213: -8025146696044860464
+    second: Static Flower and Plant sprite sheet 1_12
+  - first:
+      213: -7484028961334250280
+    second: Static Flower and Plant sprite sheet 1_13
+  - first:
+      213: 8292411137613335584
+    second: Static Flower and Plant sprite sheet 1_14
+  - first:
+      213: 8511910929236666591
+    second: Static Flower and Plant sprite sheet 1_15
+  - first:
+      213: 6680897155610735020
+    second: Static Flower and Plant sprite sheet 1_16
+  - first:
+      213: 2737098745492530494
+    second: Static Flower and Plant sprite sheet 1_17
+  - first:
+      213: 5477374328072287452
+    second: Static Flower and Plant sprite sheet 1_18
+  - first:
+      213: 4643966519207423783
+    second: Static Flower and Plant sprite sheet 1_19
+  - first:
+      213: 87800094828983300
+    second: Static Flower and Plant sprite sheet 1_20
+  - first:
+      213: -2642835392948105079
+    second: Static Flower and Plant sprite sheet 1_21
+  - first:
+      213: -435282100302111259
+    second: Static Flower and Plant sprite sheet 1_22
+  - first:
+      213: -8838430419265117035
+    second: Static Flower and Plant sprite sheet 1_23
+  - first:
+      213: -1603924626456378690
+    second: Static Flower and Plant sprite sheet 1_24
+  - first:
+      213: -6388119416062676493
+    second: Static Flower and Plant sprite sheet 1_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 493
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb96f824d26fcd70800000000000000
+      internalID: 9065573238279936944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 494
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39152b59523cc5de0800000000000000
+      internalID: -1342984022670552685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 494
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f3fd79399ad2e0800000000000000
+      internalID: -2100197804009590101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 493
+        width: 78
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362d9612a82176a0800000000000000
+      internalID: -6453332114415999432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 496
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff158180d3c2650800000000000000
+      internalID: 6209405091214131129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 486
+        width: 101
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810a826a6f3ce5720800000000000000
+      internalID: 2836920279407042584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 544
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b169697a13518b0800000000000000
+      internalID: -5182181200364168435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 346
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ed9d10a3506770800000000000000
+      internalID: 8601967235434406487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 345
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5178c9995031fb7c0800000000000000
+      internalID: -4053500224837220587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 348
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77752aa9fad8cec0800000000000000
+      internalID: -3546343940717971589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 346
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ad282748505100800000000000000
+      internalID: 94672654814783705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 434
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b356329ae6a210800000000000000
+      internalID: 1344019452514251105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 463
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba8d75993f0a090800000000000000
+      internalID: -8025146696044860464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 389
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4bfeecf43632890800000000000000
+      internalID: -7484028961334250280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8fec9eff841370800000000000000
+      internalID: 8292411137613335584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 341
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8aae064e1602670800000000000000
+      internalID: 8511910929236666591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 349
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1781de09057bc50800000000000000
+      internalID: 6680897155610735020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 349
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ef38aec02cf520800000000000000
+      internalID: 2737098745492530494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 194
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b7965eea830c40800000000000000
+      internalID: 5477374328072287452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6a26c1fea27040800000000000000
+      internalID: 4643966519207423783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 195
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f68798bde73100800000000000000
+      internalID: 87800094828983300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 198
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9809f736633c25bd0800000000000000
+      internalID: -2642835392948105079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 115
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed186a6c3195f9f0800000000000000
+      internalID: -435282100302111259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 128
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59422b79c56975580800000000000000
+      internalID: -8838430419265117035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20199dc07bdb9e0800000000000000
+      internalID: -1603924626456378690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Static Flower and Plant sprite sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 49
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1fece9c37d857a0800000000000000
+      internalID: -6388119416062676493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
